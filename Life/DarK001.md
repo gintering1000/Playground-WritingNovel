@@ -1,11 +1,3 @@
-pre {
- white-space: pre-wrap;       /* css-3 */
- white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
- white-space: -pre-wrap;      /* Opera 4-6 */
- white-space: -o-pre-wrap;    /* Opera 7 */
- word-wrap: break-word;       /* Internet Explorer 5.5+ */
-}
-
 # :scroll: 훈련정보
 
 ```
@@ -150,6 +142,16 @@ pre {
 - 장소 : 소속사, 업무환경, 호텔
 - 주제 : 아이돌의 행동변화
 ```
+
+<style>
+{
+white-space: pre-wrap; /* CSS3*/
+white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+white-space: -pre-wrap; /* Opera 4-6 */
+white-space: -o-pre-wrap; /* Opera 7 */
+word-wrap: break-all; /* Internet Explorer 5.5+ */ 
+}
+</style>
 
 <pre>
 “카페라떼 아이스 한 잔 나왔습니다”
