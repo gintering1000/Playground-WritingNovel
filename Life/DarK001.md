@@ -1,9 +1,3 @@
-.markdown-preview.markdown-preview {
-       pre, code {
-            white-space: pre-wrap;
-       }
-}
-
 # :book: 훈련정보
 
 ```
