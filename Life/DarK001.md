@@ -14,7 +14,7 @@
 
 :scroll: 인물 & 관계
 ===
-  
+
 메인 - 매니저/남
 > 소시민적 모습과 불법을 이용해서라도 자신의 사명을 다함
 ```
@@ -143,14 +143,13 @@
 - 주제 : 아이돌의 행동변화
 ```
 
-<style>
-pre {
-white-space: pre-wrap !important; /* CSS3*/
-white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
-white-space: -pre-wrap !important; /* Opera 4-6 */
-white-space: -o-pre-wrap !important; /* Opera 7 */
-word-wrap: break-all !important; /* Internet Explorer 5.5+ */ 
-}
+<style> 
+　.normal {white-space:normal;}
+　.nowarp{white-space:nowrap;}
+　.pre{white-space:pre;}
+　.prewrap{white-space:pre-wrap;}
+　.preline{white-space:pre-line;}
+　　　}
 </style>
 
 <pre>
