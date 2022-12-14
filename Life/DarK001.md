@@ -144,7 +144,7 @@
 ```
 
 <style>
-{
+pre {
 white-space: pre-wrap; /* CSS3*/
 white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
 white-space: -pre-wrap; /* Opera 4-6 */
