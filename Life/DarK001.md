@@ -1,3 +1,10 @@
+
+<style>
+  code {
+    white-space : pre-wrap !important;
+    word-break: break-word;
+  }
+</style>
 # :book: 훈련정보
 
 ```
@@ -11,7 +18,7 @@
 # :book: 내용
 [ 01-01화(기) : 매니저 & 아이돌, 사장, 언론사임원/여 ]
 
-> ```Text
+```Text
 “카페라떼 아이스 한 잔 나왔습니다”
 
 커피숍 아르바이트생과 비교하며 남다른 일을 하고 있다는 자부심은 사라진지 오래다.
