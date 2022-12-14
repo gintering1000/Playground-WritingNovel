@@ -12,7 +12,7 @@
 - 키워드: 연예계, 아이돌과 매니저의 관계
 ```
 <details><summary>참고자료 분석</summary>
-<p>
+<p style="margin-top:5px; margin-bottom:5px;">
 # :scroll: 인물 & 관계
 
 메인 - 매니저/남
