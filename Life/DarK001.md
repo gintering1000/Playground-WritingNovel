@@ -1,11 +1,4 @@
-<details><summary>분석</summary>
-<p>
 
-#### We can hide anything, even code!
-
-```ruby
-   puts "Hello World"
-```
 
 </p>
 </details>
@@ -19,7 +12,15 @@
 - 주제 : 자신의 행동에 대한 반성과 러브스토리
 - 키워드: 연예계, 아이돌과 매니저의 관계
 ```
+<details><summary>분석</summary>
+<p>
 
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+   
 # :scroll: 내용
 ## :page_with_curl: 01-01화 : 기
 ```
