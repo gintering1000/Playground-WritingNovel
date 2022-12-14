@@ -145,11 +145,11 @@
 
 <style>
 pre {
-white-space: pre-wrap; /* CSS3*/
-white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
-white-space: -pre-wrap; /* Opera 4-6 */
-white-space: -o-pre-wrap; /* Opera 7 */
-word-wrap: break-all; /* Internet Explorer 5.5+ */ 
+white-space: pre-wrap !important; /* CSS3*/
+white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
+white-space: -pre-wrap !important; /* Opera 4-6 */
+white-space: -o-pre-wrap !important; /* Opera 7 */
+word-wrap: break-all !important; /* Internet Explorer 5.5+ */ 
 }
 </style>
 
