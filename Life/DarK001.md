@@ -1,3 +1,11 @@
+<style> 
+　.normal {white-space:normal;}
+　.nowarp {white-space:nowrap;}
+　.pre {white-space:pre;}
+　.prewrap {white-space:pre-wrap;}
+　.preline {white-space:pre-line;}
+</style>
+
 # :scroll: 훈련정보
 
 ```
@@ -143,16 +151,9 @@
 - 주제 : 아이돌의 행동변화
 ```
 
-<style> 
-　.normal {white-space:normal;}
-　.nowarp{white-space:nowrap;}
-　.pre{white-space:pre;}
-　.prewrap{white-space:pre-wrap;}
-　.preline{white-space:pre-line;}
-　　　}
-</style>
 
-<pre class="pre">
+
+<pre>
 “카페라떼 아이스 한 잔 나왔습니다”
 커피숍 아르바이트생과 비교하며 남다른 일을 하고 있다는 자부심은 사라진지 오래다.
 커피를 챙겨와 서둘러 차를 운전했다. 숙소에 도착했지만 예전과 같이 차를 기다리는 그녀는 보이지 않았다. 
