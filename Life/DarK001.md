@@ -137,7 +137,7 @@
 </p>
 </details>
 
-# :scroll: 내용
+# :scroll: 작문내용
 ## :page_with_curl: 01-01화 : 기
 ```
 매니저 & 아이돌, 사장, 언론사임원/여
