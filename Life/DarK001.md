@@ -1,10 +1,3 @@
-
-<style>
-  code {
-    white-space : pre-wrap !important;
-    word-break: break-word;
-  }
-</style>
 # :book: 훈련정보
 
 ```
@@ -16,7 +9,7 @@
 ```
 
 # :book: 내용
-[ 01-01화(기) : 매니저 & 아이돌, 사장, 언론사임원/여 ]
+## [ 01-01화(기) : 매니저 & 아이돌, 사장, 언론사임원/여 ]
 
 “카페라떼 아이스 한 잔 나왔습니다”
 
