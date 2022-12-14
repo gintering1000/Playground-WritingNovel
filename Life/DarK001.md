@@ -1,7 +1,6 @@
 
 
-</p>
-</details>
+
 
 # :scroll: 훈련정보
 
@@ -20,7 +19,9 @@
 ```ruby
    puts "Hello World"
 ```
-   
+</p>
+</details>
+
 # :scroll: 내용
 ## :page_with_curl: 01-01화 : 기
 ```
