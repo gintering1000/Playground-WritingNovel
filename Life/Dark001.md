@@ -1,8 +1,8 @@
 # :scroll: 훈련정보
 
 ```
-- 참고자료 : 아이돌 매니저를 그만두었다 ( https://novelpia.com/novel/15179 )
 - 카테고리 : Life-Dark-Short
+- 참고자료 : 아이돌 매니저를 그만두었다 ( https://novelpia.com/novel/15179 )
 - 주제 : 자신의 행동에 대한 반성과 잘못된 러브스토리
 - 키워드: 연예계, 아이돌과 매니저의 관계
 ```
